@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 /*
-This project's Code taken and modified from following source , adding the links below
+This project's Code referred and modified from following source , adding the links below
 
 https://developer.android.com/guide/components/fragments#kotlin
 
